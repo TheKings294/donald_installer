@@ -1,0 +1,17 @@
+macOS:
+  brew:
+    - git
+    - curl
+    - wget
+    - python
+    - python@3
+    - node
+    - npm
+    - docker
+    - docker-compose
+    - vim
+    - tmux
+    - zsh
+    - htop
+    - neovim
+    - gh      # GitHub CLI

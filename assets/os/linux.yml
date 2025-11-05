@@ -1,0 +1,52 @@
+Linux:
+  apt:        # Debian/Ubuntu
+    - git
+    - curl
+    - wget
+    - build-essential
+    - gcc
+    - g++
+    - make
+    - python3
+    - python3-pip
+    - nodejs
+    - npm
+    - docker.io
+    - docker-compose
+    - vim
+    - tmux
+    - zsh
+    - htop
+  pacman:     # Arch Linux
+    - git
+    - curl
+    - wget
+    - base-devel
+    - gcc
+    - python
+    - python-pip
+    - nodejs
+    - npm
+    - docker
+    - docker-compose
+    - vim
+    - tmux
+    - zsh
+    - htop
+  yum:        # RedHat/CentOS
+    - git
+    - curl
+    - wget
+    - gcc
+    - gcc-c++
+    - make
+    - python3
+    - python3-pip
+    - nodejs
+    - npm
+    - docker
+    - docker-compose
+    - vim
+    - tmux
+    - zsh
+    - htop

@@ -1,0 +1,13 @@
+Windows:
+  choco:
+    - git
+    - curl
+    - wget
+    - python
+    - python3
+    - nodejs
+    - npm
+    - docker-desktop
+    - vscode
+    - 7zip
+    - git-credential-manager-core
